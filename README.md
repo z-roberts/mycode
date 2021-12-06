@@ -1,6 +1,8 @@
-# mycode (Project Title)
+# mycode Project
 
 A place to collect, store and share pieces of code I have worked on.
+
+One area I have been practicing recently is **version control on Git**.
 
 ## Getting Started
 
